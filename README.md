@@ -49,9 +49,17 @@ The program generates seven realistic, internally consistent data sources spanni
 | 13 | Visualizing | 25 professional charts (trend lines, heatmaps, panels, survival curves, etc.) |
 | 14 | Reporting | Final PDF + HTML5 + Excel tri-format export |
 
-## Statistical Techniques (65+)
+## Statistical & Analytical Techniques (65+)
 
-Implemented and extended across the pipeline: PROC SURVEYSELECT, UNIVARIATE, POWER, TTEST, GLM, ANOVA, MIXED, GENMOD, PHREG, LIFETEST, HPFOREST, LOGISTIC, SURVEYREG, CORR, FREQ (CMH), FORMAT, SGPLOT/SGPANEL (15+ chart types), hash objects, arrays, an 8-macro framework, LAG()/RETAIN/FIRST.-LAST. processing, and tri-format ODS output.
+**SAS Procedures (32):** ANOVA, APPEND, CLUSTER, CONTENTS, CORR, DATASETS, FASTCLUS, FORMAT, FREQ, GENMOD, GLM, HPFOREST, IMPORT, LIFETEST, LOGISTIC, MEANS, MIXED, PHREG, POWER, PRINT, RANK, SGPANEL, SGPLOT, SORT, SQL, STDIZE, SURVEYREG, SURVEYSELECT, TABULATE, TRANSPOSE, TTEST, UNIVARIATE
+
+**Statistical Designs & Tests (16):** simple random sampling, Central Limit Theorem validation, Shapiro-Wilk/Kolmogorov-Smirnov/Cramér-von Mises/Anderson-Darling normality tests, one-sample/paired/two-sample t-tests, sign test, signed-rank test, one-way ANOVA, two-way ANOVA with interaction, randomized complete block design (RCBD), completely randomized design (CRD), Latin Square design, factorial design, repeated-measures MANOVA (Wilks' Lambda), Greenhouse-Geisser/Huynh-Feldt corrections, LSD pairwise comparison, Dunnett's test, Tukey's HSD, Bartlett's test for homogeneity of variance, Levene's test, Type I/II error and power analysis, fixed vs. random effects modeling, REML variance component estimation
+
+**Advanced Modeling (10):** logistic regression, random forest variable importance (Gini index), Cox proportional hazards regression, Kaplan-Meier survival estimation, interrupted time series analysis, negative binomial regression, Cochran-Mantel-Haenszel (CMH) stratified test, k-means clustering, hierarchical clustering, Pearson/Spearman correlation
+
+**Surveillance & Data Engineering (8):** CUSUM outbreak detection, Rt (effective reproduction number) estimation, Z-score outlier flagging, Winsorizing, small-cell suppression (HIPAA compliance), SDOH covariate linkage, NLP-based alert flag generation, categorization of continuous variables
+
+**Programming & Output (8):** hash objects, arrays, 8-macro reusable framework, LAG()/RETAIN/FIRST.-LAST. processing, CALL SYMPUTX, custom formats, SGPLOT/SGPANEL (15+ chart types), tri-format ODS output (PDF/HTML5/Excel)
 
 ## Requirements
 
