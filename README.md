@@ -1,5 +1,7 @@
 # EpiWatch v3.0 — Epidemiology Surveillance & Experimental Intelligence Platform
 
+**[Click here to view the full interactive HTML report](https://abhijeethganji99.github.io/EpiWatch-v3.0/)**
+
 **Author:** Abhijeeth Ganji
 **Version:** 3.0 — Complete Research-Grade Surveillance Platform
 **Platform:** SAS OnDemand for Academics (zero setup required)
