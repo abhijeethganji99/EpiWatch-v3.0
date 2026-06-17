@@ -2,6 +2,8 @@
 
 **[Click here to view the full interactive HTML report](https://abhijeethganji99.github.io/EpiWatch-v3.0/)**
 
+**[Click here to view the PDF report](https://abhijeethganji99.github.io/EpiWatch-v3.0/EpiWatch_v3_Report.pdf)**
+
 **Author:** Abhijeeth Ganji
 **Version:** 3.0 — Complete Research-Grade Surveillance Platform
 **Platform:** SAS OnDemand for Academics (zero setup required)
