@@ -1,7 +1,5 @@
 # EpiWatch v3.0 — Epidemiology Surveillance & Experimental Intelligence Platform
 
-**[Click here to view the full interactive HTML report](https://abhijeethganji99.github.io/EpiWatch-v3.0/)**
-
 **[Click here to view the PDF report](https://abhijeethganji99.github.io/EpiWatch-v3.0/EpiWatch_v3_Report.pdf)**
 
 **Author:** Abhijeeth Ganji
@@ -14,6 +12,8 @@
 EpiWatch v3.0 is a 15-step, end-to-end epidemiology surveillance pipeline integrating a broad range of statistical and machine learning methods into a single research platform. It simulates and analyzes outbreak data across three disease domains — antimicrobial resistance (AMR), respiratory illness, and foodborne illness — by combining 7 simulated public-health data sources into a unified surveillance and outbreak-detection platform.
 
 The program builds its own synthetic data (no external files required), runs the full pipeline from data generation through advanced modeling and visualization, and produces a tri-format deliverable: a PDF report, an HTML5 report, and an Excel workbook, all written automatically to an `EpiWatch_Output` folder in the user's session.
+
+**[Click here to view the full interactive HTML report](https://abhijeethganji99.github.io/EpiWatch-v3.0/)**
 
 ## Data Sources (Simulated)
 
